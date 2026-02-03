@@ -2,7 +2,7 @@
 
 Tri une pile (A) vers B puis A triée. Score 100/100. Complexité O(n log n) <500 elems.
 
-![GIF tri] push_swap.gif
+![GIF de tri](push_swap.gif) 
 
 ## Features
 - Instructions : sa, sb, pa, pb, ra, rb, rra, rrb, rr, rrr.
