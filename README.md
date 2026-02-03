@@ -1,6 +1,6 @@
 # push_swap - 42 School
 
-Tri une pile (A) vers B puis A triée. Score 100/100. Complexité O(n log n) <500 elems.
+Tri une pile (A) vers B puis A triée. Score 100/100.
 
 ![GIF de tri](push_swap.gif) 
 
